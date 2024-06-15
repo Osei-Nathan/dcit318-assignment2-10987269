@@ -1,0 +1,14 @@
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment2-10987269\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment2-10987269\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment2-10987269\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.AssemblyInfo.cs
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment2-10987269\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment2-10987269\InheritanceDemo\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.exe
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment2-10987269\InheritanceDemo\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.deps.json
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment2-10987269\InheritanceDemo\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.runtimeconfig.json
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment2-10987269\InheritanceDemo\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.dll
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment2-10987269\InheritanceDemo\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.pdb
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment2-10987269\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.dll
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment2-10987269\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\refint\InheritanceDemo.dll
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment2-10987269\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.pdb
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment2-10987269\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.genruntimeconfig.cache
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment2-10987269\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\ref\InheritanceDemo.dll
